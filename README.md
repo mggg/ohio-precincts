@@ -1,4 +1,4 @@
-# Ohio Precinct Shapefile: A Brief Overview
+# Ohio Precinct Shapefile: An Overview
 
 Katie Jolly (katiejolly6@gmail.com)
 \
@@ -48,7 +48,7 @@ We found the data for 2016 election returns on the Ohio secretary of state websi
 * Katya Kelly (data collection, digitizing, voterfiles, joining)
 * Samir Khan (digitizing)
 * Zach Levitt (data collection, digitizing)
-* Heather MacDougall (voterfiles)
+* Heather MacDougall <sup>1</sup> (voterfiles)
 * Bryce McLaughlin (digitizing)
 * Everett Meike (digitizing)
 * Sloan Nietert (digitizing)
@@ -62,6 +62,7 @@ We found the data for 2016 election returns on the Ohio secretary of state websi
 * Hannah Wheelen (data collection, digitizing, voterfiles, joining)
 * Cory Wilson (digitizing)
 
+<sup>1</sup> Not affiliated with VRDI
 
 ### Metadata
 Below are listed all of the variables in the attribute table for the precinct shapefile and a brief explanation of each one:
