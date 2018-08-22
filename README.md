@@ -18,3 +18,5 @@ Below are listed all of the variables in the attribute table for the precinct sh
 * `PRES_REP`: number of votes for the Republican presidential candidate
 
 
+### Projection
+The precinct shapefile is currently displayed using the NAD83(HARN) UTM zone 17N projection, which has an accuracy of better than 1m in the contiguous United States. We chose this projection because the extent of the data is only the state boundary of Ohio, which makes a localized projection such as a UTM zone a good choice.
