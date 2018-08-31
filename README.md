@@ -1,6 +1,6 @@
 # Ohio Precinct Shapefiles
 
-_Georeferencing democracy since 2018_
+> Georeferencing democracy, one precinct at a time.
 
 ![A map of Ohio's precincts](https://user-images.githubusercontent.com/8108892/44927973-59b0ff80-ad24-11e8-847b-2dd019356172.png "Ohio Precincts")
 
@@ -8,7 +8,7 @@ Katie Jolly (katiejolly6@gmail.com) | Ruth Buck | Katya Kelly
 
 ## Overview
 
-Our job this summer has been to find out what type of data individual counties have on their precinct boundaries, and to work towards turning that into a unified shapefile of Ohio’s precincts. Some counties already have shapefiles, many do not. Most of the counties that do not have shapefiles have PDF or hardcopy precinct maps. The quality of these maps vary greatly. Some of the maps are rough boundaries drawn over highway maps in magic marker. Certain counties did not know where their precinct boundaries were at all. Below is a breakdown of tasks with the number of counties in each category.
+Some counties already have shapefiles, many do not. Most of the counties that do not have shapefiles have PDF or hardcopy precinct maps. The quality of these maps vary greatly. Some of the maps are rough boundaries drawn over highway maps in magic marker. Certain counties did not know where their precinct boundaries were at all. Below is a breakdown of tasks with the number of counties in each category.
 
 - cleaning and merging shapefiles that were publicly accessible or were provided by counties (46)
 - digitizing and merging the precinct maps provided by Ohio county officials, whether PDF (27) or paper (18)
