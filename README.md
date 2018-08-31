@@ -69,7 +69,7 @@ We obtained the data for 2016 election returns from the Ohio secretary of state 
 
 ## About the shapefiles
 
-###Metadata
+### Metadata
 
 Below are listed all of the variables in the attribute table for the precinct shapefile and a brief explanation of each one:
 
