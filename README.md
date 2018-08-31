@@ -92,3 +92,7 @@ Below are listed all of the variables in the attribute table for the precinct sh
 ### Projection
 
 The precinct shapefile is currently displayed using the NAD83(HARN) UTM zone 17N projection, which has an accuracy of better than 1m in the contiguous United States. We chose this projection because the extent of the data is only the state boundary of Ohio, which makes a localized projection such as a UTM zone a good choice.
+
+---
+
+_The products of this project should be considered public and freely shareable.  Please cite this repo and credit the Metric Geometry and Gerrymandering Group._
