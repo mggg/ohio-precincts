@@ -84,10 +84,19 @@ Below are listed all of the variables in the attribute table for the precinct sh
 - `NUM_REG`: number of registered voters
 - `TRNOUT`: number of people who actually voted
 - `TRNOUT_PCT`: percentage of registered voters who actually voted
-- `PRES_DEM`: number of votes for the Democratic presidential candidate
-- `PRES_IND`: number of votes for the Independent presidential candidate
-- `PRES_GRN`: number of votes for the Green Party presidential candidate
-- `PRES_REP`: number of votes for the Republican presidential candidate
+- `PRES_DEM16`: number of votes for the 2016 Democratic presidential candidate
+- `PRES_IND16`: number of votes for the 2016 Independent presidential candidate
+- `PRES_GRN16`: number of votes for the 2016 Green Party presidential candidate
+- `PRES_REP16`: number of votes for the 2016 Republican presidential candidate
+- `SEN_REP_16`: number of votes for the 2016 Republican senatorial candidate
+- `SEN_DEM_16`: number of votes for the 2016 Democratic senatorial candidate
+- `GOV_GRN14`: number of votes for the 2014 Green Party gubernatorial candidate
+- `GOV_DEM14`: number of votes for the 2014 Democratic gubernatorial candidate
+- `GOV_REP14`: number of votes for the 2014 Republican gubernatorial candidate
+- `PRES_LIB12`: number of votes for the 2012 Libertarian presidential candidate
+- `PRES_DEM12`: number of votes for the 2012 Democratic presidential candidate
+- `PRES_REP12`: number of votes for the 2012 Republican presidential candidate
+- `PRES_GRN12`: number of votes for the 2012 Green Party presidential candidate
 
 ### Projection
 
