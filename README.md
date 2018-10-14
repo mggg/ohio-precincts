@@ -82,9 +82,9 @@ Below are listed all of the variables in the attribute table for the precinct sh
 - `PREC_MIS`: contains comma-separated names and codes of mismatched precincts between the shapefile and election data
 - `REGION`: broader region of Ohio in which the precinct is located
 - `MET_AREA`: metropolitan/media area in which the precinct is located
-- `NUM_REG`: number of registered voters
-- `TRNOUT`: number of people who actually voted
-- `TRNOUT_PCT`: percentage of registered voters who actually voted
+- `NUM_REG`: number of registered voters (as of 2016 general election)
+- `TRNOUT`: number of people who actually voted (as of 2016 general election)
+- `TRNOUT_PCT`: percentage of registered voters who actually voted (as of 2016 general election)
 - `PRES_DEM16`: number of votes for the 2016 Democratic presidential candidate
 - `PRES_IND16`: number of votes for the 2016 Independent presidential candidate
 - `PRES_GRN16`: number of votes for the 2016 Green Party presidential candidate
