@@ -70,6 +70,10 @@ We obtained the data for 2016 election returns from the Ohio secretary of state 
 
 ## About the shapefiles
 
+## Notes
+
+This shapefile is the most up-to-date as of 11/24/2018. We are still working on matching a few of the counties to election results and aggregating some results. Most of the geometry has been cleaned, including removing dangles, (most) gaps, and (most) polygon slivers. If you find other errors, please let us know! Some of the larger gaps are still in the process of being fixed. We recommend using the geopackage over the shapefile because it is a more flexible and lightweight filetype to work with. We include the shapefile because it is still the industry standard, though. 
+
 ### Metadata
 
 Below are listed all of the variables in the attribute table for the precinct shapefile and a brief explanation of each one:
