@@ -31,7 +31,7 @@ For counties that did not have maps available of their precincts, we needed to f
 
 ### Joining Election Data
 
-We obtained the data for 2016 election returns from the Ohio secretary of state website. We then created a lookup table for precincts by manually matching precinct names and codes from the election data to the precinct information from the shapefiles we merged. After filtering out invalid precincts from the merged shapefiles, we performed a full join on both precinct and county names to obtain a complete shapefile with the election data attached.
+We obtained the data for 2016 election returns from the Ohio secretary of state website. We then created a lookup table for precincts by manually matching precinct names and codes from the election data to the precinct information from the shapefiles we merged. After filtering out invalid precincts from the merged shapefiles, we performed a full join on both precinct and county names to obtain a complete shapefile with the election data attached. We are still working on joining all the counties. 
 
 ### Collaborators
 
