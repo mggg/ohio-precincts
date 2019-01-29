@@ -37,6 +37,7 @@ We obtained the data for 2016 election returns from the Ohio secretary of state 
 
 - Ethan Ackerman (digitizing)
 - Emilia Alvarez (digitizing)
+- Patrick Barnacle <sup>1</sup> (data collection, election data consultant)
 - Assaf Bar-Natan (data collection, digitizing)
 - Eion Blanchard (data collection, digitizing)
 - Ruth Buck (project leader)
@@ -49,7 +50,7 @@ We obtained the data for 2016 election returns from the Ohio secretary of state 
 - Max Hully (digitizing)
 - Amara Jaeger (digitizing)
 - Katie Jolly (project leader)
-- Katya Kelly (data collection, digitizing, voterfiles, joining)
+- Katya Kelly (project leader)
 - Samir Khan (digitizing)
 - Zach Levitt (data collection, digitizing)
 - Heather MacDougall <sup>1</sup> (voterfiles)
