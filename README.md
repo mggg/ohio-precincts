@@ -5,7 +5,7 @@
 ![A map of Ohio's precincts](https://user-images.githubusercontent.com/8108892/44927973-59b0ff80-ad24-11e8-847b-2dd019356172.png "Ohio Precincts")
 
 [Metric Geometry and Gerrymandering Group](mailto:gerrymandr@gmail.com)  
-[Katie Jolly](mailto:katiejolly6@gmail.com) | Ruth Buck | Katya Kelly
+[Ruth Buck](mailto:ruth@mggg.org)| Katie Jolly | Katya Kelly
 
 ## Overview
 
